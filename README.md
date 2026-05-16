@@ -5,6 +5,14 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset to unco
 
 ---
 
+## 📌 Project Highlights
+- Cleaned and analyzed 2500+ movie records  
+- Identified trends in ratings, genres, and directors  
+- Handled duplicate entries and data bias  
+- Created multiple visualizations for insights
+
+---
+
 ## 📊 Dataset
 - Source: IMDb Movies Dataset  
 - Size: ~2500+ movies  
